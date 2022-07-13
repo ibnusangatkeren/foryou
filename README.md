@@ -1,2 +1,0 @@
-# foryou
-css efek
